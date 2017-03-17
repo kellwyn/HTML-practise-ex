@@ -1,0 +1,38 @@
+body {
+	background-image: url(https://images.unsplash.com/photo-1447684808650-354ae64db5b8?dpr=1&auto=compress,format&fit=crop&w=376&h=252&q=80&cs=tinysrgb&crop=);
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+html {
+	height: 100%;
+}
+
+#content {
+	text-align: center;
+	padding-top: 20%;
+	color: white;
+	font-weight: 400;
+	font-family: Gloria Hallelujah;
+	text-shadow: 0px -1px 30px rgba(255, 209, 244, 1);	
+}
+
+.main {
+	font-size: 5em;
+	font-weight: 1000;
+	color: #eafae6;
+	font-family: Jim Nightshade;
+	text-transform: uppercase;
+	}
+
+
+hr {
+	width: 400px;
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+	border-top: 1px solid #f8f8f8;
+}
+.navbar-inverse {
+	font-family: Gloria Hallelujah;
+
+
+}
